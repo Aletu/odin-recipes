@@ -7,6 +7,13 @@
   width: 300px;
 }
 
+button {
+  background-color: rgb(155, 214, 252);
+  font-weight: bold;
+  border-radius: 4px;
+  font-size: 18px;
+}
+
 h1 {
   background-color: lightcyan;
 }
