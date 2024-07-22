@@ -2,6 +2,11 @@
   font-size: 22px;
 }
 
+.food-image {
+  height: auto;
+  width: 300px;
+}
+
 h1 {
   background-color: lightcyan;
 }
